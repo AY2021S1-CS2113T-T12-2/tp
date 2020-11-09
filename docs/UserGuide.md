@@ -725,7 +725,6 @@ Example:
 `print timeline date <date>`
 
 This prints the personal calendar before a specific date.
-Note: If your input a past date, only the todo items will be shown.
 
 ![print_timeline_date](images/printTimeline_date_command.PNG)
 
